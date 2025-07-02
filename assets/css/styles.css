@@ -153,6 +153,11 @@ footer{
   background-image: linear-gradient(rgba(0,0,0,0.6), rgba(49, 168, 221, .2));
   text-align: center;
 }
+
+footer img{
+  margin: 30px;
+}
+
  footer p {
   color: white;
  }
